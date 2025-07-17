@@ -1,6 +1,6 @@
 # Dacchuking
 
-subscribe my youtube channel <br>
+please subscribe my you tube channel <br>
 
 My name is darshan
 
