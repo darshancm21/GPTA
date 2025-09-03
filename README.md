@@ -42,9 +42,7 @@ class Header extends React.Component {
 
         <div className="fa fa-search searchIcon"></div>
       </div>
-    )
-    );
-  }
+
 }
 ‎day-01/package.json
 -53
