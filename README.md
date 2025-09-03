@@ -26,7 +26,7 @@ class Header extends React.Component {
         <div className="menuIcon">
           <div className="dashTop"></div>
           <div className="dashBottom"></div>
-          <div className="circle"></div>
+          <div class="circle"></div>
         </div>
 
         <span className="title">-
