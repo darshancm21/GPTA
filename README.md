@@ -1,8 +1,7 @@
 # Dacchuking
 
-please subscribe my you tube channel <br>
+a=2345;
+b=3456;
+c=a+b
 
-My name is darshan
-https://www.youtube.com/channel/UCxYBmAL9M5HyD_W6v0O3EWQ
-link of channale
 
